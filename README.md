@@ -130,7 +130,7 @@ Sélection multiple et suppression via requête POST.
 
 ## Auteur
 
-**Michel Larry Evra Anaba Ngoum**  
+**Michel Larry Evra Anaba Ngoumou**  
 Étudiant en Baccalauréat en Informatique  
 Université du Québec à Trois-Rivières (UQTR)  
 Spécialisation : Développement d’applications web et mobiles
